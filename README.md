@@ -21,7 +21,7 @@ git add 'filename'
 ```
 Step 4: Run 
 ```
-'git commit - m "Your comment here" 
+git commit - m "Your comment here" 
 ```
 Step 5: Login to gitHub -> New Repo -> Name it -> Copy commands to push to repo (below 2 lines)  
   
@@ -33,6 +33,8 @@ Step 7: Run
 ```
 git push -u origin master
 ```
+
+
 
 ### How to push code to your repo after its set up
 
@@ -46,7 +48,7 @@ git add 'filename'
 ```
 Step 2: Run 
 ```
-'git commit - m "Your comment here" 
+git commit - m "Your comment here" 
 ```
 Step 3: Run 
 ```
