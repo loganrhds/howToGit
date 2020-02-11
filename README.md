@@ -34,8 +34,9 @@ Step 7: Run
 git push -u origin master
 ```
 
-  
-  
+<br/><br/>
+
+
 ### How to push code to your repo after its set up
 
 Step 1: Run this for all files
