@@ -56,6 +56,8 @@ Step 3: Run
 git push
 ```
 
+<br/><br/>
+
 ### How to create a new branch (this is on a different branch)
 
 Step 1: Run
