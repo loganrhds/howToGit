@@ -62,3 +62,16 @@ Step 1: Run
 ```
 git checkout -b name
 ```
+Step 2: Edit and save your code  
+Step 3: Run 
+```
+git add .
+```
+Step 4: Run 
+```
+git commit - m "Your comment here" 
+```
+Step 5: Run
+```
+git push -u origin branch-name
+```
