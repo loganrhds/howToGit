@@ -60,4 +60,9 @@ git push
 <br/><br/>
 
 
-### How to push code to your repo after its set up
+### How to use fetch to pull code that you want to review before you merge
+
+Step 1: Run 
+```
+git fetch
+```
