@@ -79,3 +79,7 @@ Step 5: Run below pull stash back into branch
 ```
 git stash apply
 ```
+Step 6: Once you've saved run below to clear your stash
+```
+git stash clear
+```
