@@ -70,3 +70,5 @@ Step 2: Run
 ```
 git merge origin/branch-name
 ```
+
+### How to delete a branch
