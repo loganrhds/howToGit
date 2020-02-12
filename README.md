@@ -55,3 +55,9 @@ Step 3: Run
 ```
 git push
 ```
+
+
+<br/><br/>
+
+
+### How to push code to your repo after its set up
