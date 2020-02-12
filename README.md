@@ -66,3 +66,7 @@ Step 1: Run
 ```
 git fetch
 ```
+Step 2: Run 
+```
+git merge origin/branch-name
+```
