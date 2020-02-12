@@ -55,3 +55,20 @@ Step 3: Run
 ```
 git push
 ```
+
+
+<br/><br/>
+
+
+### How to use fetch to pull code that you want to review before you merge
+
+Step 1: Run 
+```
+git fetch
+```
+Step 2: Run 
+```
+git merge origin/branch-name
+```
+
+### How to delete a branch
