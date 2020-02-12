@@ -55,3 +55,27 @@ Step 3: Run
 ```
 git push
 ```
+
+<br/><br/>
+
+### How to stash
+
+Step 1: Run
+```
+git stash
+```
+
+Step 2: Switch to your other branch and work with code, switch back to branch with stash
+
+Step 3: Run below to see stash list
+```
+git stash list
+```
+Step 4: Run below to see stash changes
+```
+git stash show
+```
+Step 5: Run below pull stash back into branch
+```
+git stash apply
+```
